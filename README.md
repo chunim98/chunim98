@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=0:d09ac4,100:9b7ec3&height=90&section=header&text=Jeonguk's%20iOS&fontColor=ffffff&fontSize=30&fontAlign=14)
 
-## Projects
+<!-- 프로젝트 카드 -->
 [![Project Vinu](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=Vinu&theme=buefy)](https://github.com/JU98965/Vinu.git)
 [![Project MaumLog](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=MaumLog&theme=buefy)](https://github.com/JU98965/MaumLog.git)
 [![Project NanaTimer](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=NanaTimer&theme=buefy)](https://github.com/JU98965/NanaTimer.git)
