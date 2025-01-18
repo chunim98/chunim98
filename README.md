@@ -1,7 +1,10 @@
 <!-- 헤더 -->
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=0:d09ac4,100:9b7ec3&height=90&section=header&text=Jeonguk's%20iOS&fontColor=ffffff&fontSize=30&fontAlign=14)
 
-
+## Projects
+[![Project Vinu](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=Vinu&theme=buefy)](https://github.com/JU98965/Vinu.git)
+[![Project MaumLog](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=MaumLog&theme=buefy)](https://github.com/JU98965/MaumLog.git)
+[![Project NanaTimer](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=NanaTimer&theme=buefy)](https://github.com/JU98965/NanaTimer.git)
 
 ## Skills
 <!-- https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색 -->
@@ -23,6 +26,9 @@
 </a>
 
 ## Contact
-**Email: jjingeo1230@gmail.com**
+**✉️ jjingeo1230@gmail.com**
 
+<br/>
+
+<!-- 프로필 조회수 카운터 -->
 <img align="right" src="https://komarev.com/ghpvc/?username=JU98965&color=b88ec3&style=for-the-badge"/>
