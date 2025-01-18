@@ -16,13 +16,13 @@
 
 ## Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JU98965&layout=compact&theme=buefy" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JU98965&layout=compact&theme=buefy" height="150"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JU98965&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JU98965&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" height="150"/>
 </a>
 
 ## Contact
 **Email: jjingeo1230@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=JU98965&color=b88ec3&style=for-the-badge)
+<img align="right" src="https://komarev.com/ghpvc/?username=JU98965&color=b88ec3&style=for-the-badge"/>
