@@ -24,8 +24,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JU98965&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" height="140"/>
 </a>
-
-## Solved.ac
 <a href="https://solved.ac/chunim">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chunim" height="140"/>
 </a>
