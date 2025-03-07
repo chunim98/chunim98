@@ -2,9 +2,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=0:d09ac4,100:9b7ec3&height=75&section=header&text=Chunim%20iOS&fontColor=ffffff&fontSize=30&fontAlign=12&fontAlignY=54)
 
 <!-- 프로젝트 카드 -->
-[![Project Vinu](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=Vinu&theme=buefy)](https://github.com/JU98965/Vinu.git)
-[![Project MaumLog](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=MaumLog&theme=buefy)](https://github.com/JU98965/MaumLog.git)
-[![Project NanaTimer](https://github-readme-stats.vercel.app/api/pin/?username=JU98965&repo=NanaTimer&theme=buefy)](https://github.com/JU98965/NanaTimer.git)
+[![Project Vinu](https://github-readme-stats.vercel.app/api/pin/?username=chunim98&repo=vinu-ios&theme=buefy)](https://github.com/chunim98/vinu-ios.git)
+[![Project MaumLog](https://github-readme-stats.vercel.app/api/pin/?username=chunim98&repo=maum-log-ios&theme=buefy)](https://github.com/chunim98/maum-log-ios.git)
+[![Project NanaTimer](https://github-readme-stats.vercel.app/api/pin/?username=chunim98&repo=nana-timer-ios&theme=buefy)](https://github.com/chunim98/nana-timer-ios.git)
 
 ## Skills
 <!-- https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색 -->
@@ -19,10 +19,10 @@
 
 ## Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JU98965&layout=compact&theme=buefy" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunim98&layout=compact&theme=buefy" height="140"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JU98965&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chunim98&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" height="140"/>
 </a>
 <a href="https://solved.ac/chunim">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chunim" height="140"/>
@@ -33,6 +33,6 @@
 
 <br/>
 
-<!-- 프로필 조회수 카운터 -->
-<img align="right" src="https://komarev.com/ghpvc/?username=JU98965&color=b88ec3&style=for-the-badge"/>
+<!-- 프로필 조회수 카운터 -->
+<img align="right" src="https://komarev.com/ghpvc/?username=chunim98&color=b88ec3&style=for-the-badge"/>
 
