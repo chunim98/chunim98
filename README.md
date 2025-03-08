@@ -5,6 +5,7 @@
 [![Project Vinu](https://github-readme-stats.vercel.app/api/pin/?username=chunim98&repo=vinu-ios&theme=buefy)](https://github.com/chunim98/vinu-ios.git)
 [![Project MaumLog](https://github-readme-stats.vercel.app/api/pin/?username=chunim98&repo=maum-log-ios&theme=buefy)](https://github.com/chunim98/maum-log-ios.git)
 [![Project NanaTimer](https://github-readme-stats.vercel.app/api/pin/?username=chunim98&repo=nana-timer-ios&theme=buefy)](https://github.com/chunim98/nana-timer-ios.git)
+[![Swift Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=chunim98&repo=swift-algorithm&theme=buefy)](https://github.com/chunim98/swift-algorithm.git)
 
 ## Skills
 <!-- https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색 -->
