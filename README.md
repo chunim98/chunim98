@@ -9,13 +9,12 @@
 
 ## Skills
 <!-- https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색 -->
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![UIkit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=21a2fc)
+![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Learning..
-![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![TCA](https://img.shields.io/badge/TCA-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Status
